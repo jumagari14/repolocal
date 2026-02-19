@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+8a1f321 - Juan Manuel Garcia, 42 minutes ago : Create log_commits.go to log recent git commits
+d56b93a - Juan Manuel Garcia, 46 minutes ago : Add test.txt with initial content
+f21b31b - Juan Manuel Garcia, 50 minutes ago : Add GitHub Actions workflow for commit logging
