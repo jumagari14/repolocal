@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+e362b56 - GitHub Actions, 7 days ago : Auto: Add latest commits log
+1129d54 - GitHub Actions, 8 days ago : Auto: Add latest commits log
+8a1f321 - Juan Manuel Garcia, 8 days ago : Create log_commits.go to log recent git commits
